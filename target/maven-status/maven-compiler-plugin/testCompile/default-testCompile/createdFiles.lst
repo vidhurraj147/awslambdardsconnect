@@ -1,0 +1,14 @@
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DynamodbEventMixin.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$TestJacksonMapperModule.class
+com/amazonaws/lambda/awslambdardsconnect/TestContext$TestLogger.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com/amazonaws/lambda/awslambdardsconnect/TestContext.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DateTimeSerializer.class
+com/amazonaws/lambda/awslambdardsconnect/LambdaFunctionHandlerTest.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DateTimeDeserializer.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils.class
+com/amazonaws/lambda/awslambdardsconnect/TestContext$1.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$DynamodbEventMixin$RecordMixin.class
+com/amazonaws/lambda/awslambdardsconnect/TestUtils$1.class
